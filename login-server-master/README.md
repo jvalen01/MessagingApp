@@ -1,3 +1,5 @@
+#School project!
+
 ## Whats wrong with the structure/security?
 The file app.py is extremely messy. Very insecure design. Almost everyting is mixed in one file. 
 
